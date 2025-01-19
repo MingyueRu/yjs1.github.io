@@ -71,7 +71,5 @@ page-mathjax: false
 # Courses
 courses:
   [
-    { title: "计量经济学", href: "/courses/microeconomics" },
-    { title: "凸分析", href: "/courses/convex-analysis" },
-    { title: "机器学习", href: "/courses/machine-learning" },
+    { title: "econometrics", href: "/courses/econometrics" }
   ]
